@@ -26,7 +26,7 @@
 &trans  &trans            &trans        &trans             &trans     &trans                           &trans         &trans            &trans          &trans           &trans     &trans
 &trans  &kp NUMBER_6      &kp N7        &kp N8             &kp N9     &kp NUMBER_0                     &kp NUMBER_7   &kp N8            &kp N9          &kp F10          &kp F11    &kp DELETE
 &trans  &kp LA(LC(LEFT))  &kp LEFT_GUI  &kp LA(LC(RIGHT))  &kp ASTRK  &kp LC(LS(S))                    &kp MINUS      &kp PLUS          &kp LEFT_BRACE  &kp RIGHT_BRACE  &kp TILDE  &kp BACKSLASH
-&trans  &kp LS(LC(TAB))   &kp LC(W)     &kp LC(TAB)        &kp LC(T)  &kp BACKSPACE  &trans    &trans  &kp LESS_THAN  &kp GREATER_THAN  &kp EQUAL       &kp LEFT         &kp DOWN   &trans
+&trans  &kp LS(LC(TAB))   &kp LC(W)     &kp LC(TAB)        &kp LC(T)  &kp BACKSPACE  &trans    &trans  &kp LESS_THAN  &kp GREATER_THAN  &kp EQUAL       &trans           &trans     &trans
                           &trans        &trans             &trans     &trans         &trans    &trans  &trans         &trans            &trans          &trans
             >;
 
